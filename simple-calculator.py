@@ -93,5 +93,3 @@ if action == '10':
     print('[-]' + Fore.CYAN + 'ANSWER::>' + Fore.RESET,
           1 / math.tan(float(first_num)))
     pass
-
-os.system('python simple-calculator.py')
